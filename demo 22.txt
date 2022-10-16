@@ -5,3 +5,4 @@ Adding this line on local repository.
 Adding the third line on git hub(remot repository).
 >>>>>>> 488eef2c8cfe25e4607568cbb455fd1e2c605cf8
 Making changes from replit.
+Adding a line in git hub.
